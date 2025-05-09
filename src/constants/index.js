@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project1.png";
-import project2 from "../assets/projects/project2.png";
-import project3 from "../assets/projects/project3.png";
-import project4 from "../assets/projects/project4.png";
+import project1 from "../assets/projects/project1.webp";
+import project2 from "../assets/projects/project2.webp";
+import project3 from "../assets/projects/project3.webp";
+import project4 from "../assets/projects/project4.webp";
 
 export const HERO_CONTENT = `I'm a MERN Stack Developer with 2.5 years of hands-on experience building robust, scalable full-stack web applications. Starting with the core MERN stack, I’ve expanded my skills to include Next.js, TypeScript, and tools like Tailwind CSS, Redux, and Framer Motion. I focus on performance, maintainability, and user-centric design to deliver seamless web experiences.`;
 
