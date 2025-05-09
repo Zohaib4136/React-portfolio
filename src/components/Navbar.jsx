@@ -10,10 +10,21 @@ const Navbar = () => {
         <img className="mx-2 w-10" src={logo} alt="logo" />
       </div>
       <div className="flex m-8 items-center justify-center gap-4 text-2xl">
-        <FaLinkedin />
-        <FaGithub />
-        <FaInstagram />
-        <FaSquareXTwitter />
+        <a href="https://www.linkedin.com/in/zohaib-ahmed-khan-220940289/">
+          <FaLinkedin />
+        </a>
+
+        <a href="https://github.com/Zohaib4136/">
+          <FaGithub />
+        </a>
+
+        <a href="https://x.com/Zohaibkhan4136">
+          <FaSquareXTwitter />
+        </a>
+
+        <a href="https://www.instagram.com/zohaibkhanniazi4136">
+          <FaInstagram />
+        </a>
       </div>
     </nav>
   );
